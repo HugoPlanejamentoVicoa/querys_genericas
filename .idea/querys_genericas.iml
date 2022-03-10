@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="DBE_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://X:/Consultas/Funcoes" />
+    <content url="file://X:/Consultas/Hugo" />
+    <content url="file://X:/Consultas/Rotinas" />
+    <content url="file://X:/Consultas/Triggers" />
+    <content url="file://X:/Consultas/Views" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
